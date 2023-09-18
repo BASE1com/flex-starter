@@ -1,16 +1,9 @@
 # flex_starter
 
-A new Flutter project.
+This project is a starting point for a building an eCommerce application with [Flex](https://flex.base1.com).
 
-## Getting Started
+Follow this guide to get onboarded with Flex:
 
-This project is a starting point for a Flutter application.
+* https://flex.base1.com/docs/dev-docs/overview/getting-started
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is baked by [BASE1](https://www.base1.com/).
